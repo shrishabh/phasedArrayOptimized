@@ -427,10 +427,10 @@ double cur_posnu_z;
     int Events_Passed = 0;
     //       for (int inu=0;inu<settings1->NNU;inu++) { // loop over neutrinos
     // Code to read the trigger efficiency curve for phased array
-    double snr_PA[60];
-    double eff_PA[60];
+    double snr_PA[120];
+    double eff_PA[120];
     ifstream infile;
-    infile.open("nuphase_trig_effc.txt",ios::in);
+    infile.open("nuphase_matched_trigEffc.txt",ios::in);
    if(infile.fail()) // checks to see if file opended
     {
       cout << "error, file could not be opened" << endl;

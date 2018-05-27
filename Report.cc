@@ -1891,7 +1891,8 @@ void Report::Connect_Interaction_Detector (Event *event, Detector *detector, Ray
               // }
               // avgSnr = snr*1.0/numAnt;
               //test code ends here, comment the section above when you are done testing
-              double eff = interpolate(xdata,ydata,avgSnr,59);
+              int numPointsOnTriggerEffCurve = 119;
+              double eff = interpolate(xdata,ydata,avgSnr,numPointsOnTriggerEffCurve);
               if(avgSnr > 1){
                 cout<<endl;
                 cout<<"Noise RMS :"<<noise_rms<<" avgSNR :"<<avgSnr<<" Efficiency "<<eff<<endl;
