@@ -2,7 +2,8 @@
 *.d
 
 #Event dictionry
-
+*.root
+*.pdf
 
 # Compiled Object files
 *.slo
