@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="trunk"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trunk">
+				<Option output="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/trunk" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 trunk"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trunk/fast">
+				<Option output="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/trunk" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 trunk/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/AraSim.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Constants.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Detector.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Detector.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/EarthModel.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/EarthModel.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Efficiencies.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Efficiencies.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Event.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Event.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/IceModel.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/IceModel.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/LinkDef.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/PlotMakers/readTree.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Position.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Position.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Primaries.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Primaries.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Ray.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Ray.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/RaySolver.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/RaySolver.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/RayTrace.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/RayTrace.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/RayTrace_IceModels.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/RayTrace_IceModels.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/RayTrace_detail/DoTraceImplementation.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/RayTrace_detail/RayTraceImplementation.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Report.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Report.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Settings.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Settings.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Spectra.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Spectra.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Tools.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Tools.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Trigger.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Trigger.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Vector.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/Vector.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/counting.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/counting.hh">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/eventSimDict.C">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/eventSimDict.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/getSatStudy.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/include/linkdef.h">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/matcreat.cpp">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/ray_solver.cpp">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/readGeom.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/readTree.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/readTreeBackup.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/secondaries.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/secondaries.hh">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/signal.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/signal.hh">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/useRaySolver.cc">
+			<Option target="trunk"/>
+		</Unit>
+		<Unit filename="/Users/rkhandelwal/Rishabh/software/repo/AraSim/trunk/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+#Event dictionry
+
+
 # Compiled Object files
 *.slo
 *.lo
